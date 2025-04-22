@@ -1,0 +1,20 @@
+{
+  "name": "yes",
+  "version": "1.0.0",
+  "description": "tender for dev",
+  "main": "yes",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/app.js",
+    "dev":"nodemon src/app.js"
+  },
+  "keywords": [
+    "nodejs",
+    "javascript"
+  ],
+  "author": "MuraliBasha",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
